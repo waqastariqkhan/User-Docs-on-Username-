@@ -4,13 +4,7 @@
   <button type="submit" name="submitUsername">Login</button>
 		</form>
 	<div style="display:block;margin-top:10px;">
-		 <a style="font-family: Montserrat;font-style: normal;font-weight: normal;font-size: 14px;line-height: 17px;color: #5C8EBF;" href="mailto:info@hit-ag.ch?cc=&bcc=&subject=[stweg.hit-ag.ch] Zugriffscode vergessen&body=Grüezi%0D%0A%0D%0A
-Leider finde ich meinen Zugangscode I'm Stockwerkeigentümerprotokoll nicht mehr.%0D%0A
-Bitte senden sie mir den Code zu den folgenden Angaben zu.%0D%0A%0D%0A
-Vorname:%0D%0A
-Name:%0D%0A
-Stockwerkeigentümergemeinschaft:%0D%0A%0D%0A
-Herzlichen Dank und freundliche Grüsse%0D%0A">Code vergessen?</a>
+		 <a style="font-family: Montserrat;font-style: normal;font-weight: normal;font-size: 14px;line-height: 17px;color: #5C8EBF;">Forgot Username?</a>
 	</div>
 
 </div>
